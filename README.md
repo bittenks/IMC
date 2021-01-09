@@ -20,6 +20,6 @@ Eu ainda sei muito pouco sobre programação e "codar" , estou decidindo aprende
 https://bittenks.github.io/IMC/
 
 
-# Mobile-first
+# Responsivo
 
 ![alt text](https://github.com/bittenks/IMC/blob/main/imc-.gif)
